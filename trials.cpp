@@ -13,6 +13,15 @@
 #include "KalmanFilter.h"
 #include "GlobalStuff.h"
 #include "ParallelPort\CPaPiC.h"
+/*GM 19-04-17
+	Step 1: uncomment or add the previous line.
+	Step 2: add CPaPic.h to the header files and add CPaPiC.cpp to the source files
+	Step 3: add the nawxcwd.lib library (right click on GUI, properties, linker, input, add it to the line with libraries)
+	Step 4: uncomment the two lines about the parallel port right after **start trial**
+	Step 5: go to the desired trial phase (here: targetMode) and uncomment
+		CPaPiC papi
+		pin_output_mode & set_pin for the desired pin
+*/
 #include <fstream>
 #include <sstream>
 #include <exception>
@@ -208,8 +217,8 @@ Parameter outputData[numOutputDataVars] = {
 	****************************************************************/
 	void Trial::startTrial() {
 		currentStage = trialStart;
-		CPaPiC papi; // Parallel port pin class object
-		papi.clear_pin(LP_OUTPUT_PINS); // clear all pins
+		CPaPiC papi; // Parallel port pin class object. GM 19-04-17 Step 4: uncomment
+		papi.clear_pin(LP_OUTPUT_PINS); // clear all pins. GM 19-04-17 Step 4: uncomment
 
 		// Generate a ParameterListVector for storing the data from the trial
 		vector<string> dataNames;
@@ -291,6 +300,15 @@ Parameter outputData[numOutputDataVars] = {
 	    }
 
 		// Switch of currentStage that "runs" all trials
+		
+		/*GM 19-04-17
+		At desired trial, uncomment 'CPaPic papi'
+		then make sure the lines
+			//papi.pin_output_mode(LP_PIN02);
+			//papi.set_pin(LP_PIN02);
+		(or whichever pin is used) is uncommented
+		*/
+		
 		switch(currentStage)
 		{
 		case trialStart:
@@ -421,11 +439,11 @@ Parameter outputData[numOutputDataVars] = {
 			// Reaction = when robotVelocity gets above a certain treshold
 			{
 				// trigger signal
-				CPaPiC papi; // Parallel port pin class object
-				papi.pin_output_mode(LP_PIN02);
-				papi.set_pin(LP_PIN02);
+				//CPaPiC papi; // Parallel port pin class object
+				//papi.pin_output_mode(LP_PIN02);
+				//papi.set_pin(LP_PIN02);
 				//papi.pin_output_mode(LP_PIN03);
-				//papi.clear_pin(LP_PIN03);
+				//papi.set_pin(LP_PIN03);
 				//papi.pin_output_mode(LP_PIN04);
 				//papi.set_pin(LP_PIN04);
 
@@ -472,9 +490,14 @@ Parameter outputData[numOutputDataVars] = {
 			// After reaction from the subject, when he/she is moving towards the target
 			{
 				// trigger signal (#ZDJ, this is when movement starts)
-				//CPaPiC papi; // Parallel port pin class object
-				//papi.pin_output_mode(LP_PIN02);
-				//papi.set_pin(LP_PIN02);
+				/* GM 19-04-17 Step 5
+				In this version, pin 2 gives a high(er) signal when the target appears				
+				*/
+				CPaPiC papi; // Parallel port pin class object
+				papi.pin_output_mode(LP_PIN02);
+				papi.set_pin(LP_PIN02);
+				//papi.pin_output_mode(LP_PIN03);
+				//papi.set_pin(LP_PIN03);
 				//papi.pin_output_mode(LP_PIN04);
 				//papi.set_pin(LP_PIN04);
 
