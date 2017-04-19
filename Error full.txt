@@ -1,0 +1,106 @@
+'GUI1.exe': Loaded 'C:\Documents and Settings\robot\desktop\Robot EEGUIDO\Debug\GUI1.exe', Symbols loaded.
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\ntdll.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\kernel32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\DMC32.dll', Binary was not built with debug information.
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\user32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\gdi32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\advapi32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\rpcrt4.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\secur32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\ole32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\msvcrt.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\wsock32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\ws2_32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\ws2help.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\Documents and Settings\robot\desktop\Robot EEGUIDO\INPOUT32.DLL', Binary was not built with debug information.
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\winspool.drv', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\comdlg32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\comctl32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\shell32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\shlwapi.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\oleaut32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\winmm.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\msimg32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\oledlg.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\oleacc.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.6002.23084_x-ww_f3f35550\GdiPlus.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\imm32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202\comctl32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\uxtheme.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\MSCTF.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\version.dll', Cannot find or open the PDB file
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\version.dll'
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\MSCTFIME.IME', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\mslbui.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\Dmcbus32.dll', Binary was not built with debug information.
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\version.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\mfc42.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\wdmaud.drv', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\setupapi.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\wintrust.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\crypt32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\msasn1.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\imagehlp.dll', Cannot find or open the PDB file
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\setupapi.dll'
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\wdmaud.drv'
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\wdmaud.drv', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\setupapi.dll', Cannot find or open the PDB file
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\setupapi.dll'
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\wdmaud.drv'
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\wdmaud.drv', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\setupapi.dll', Cannot find or open the PDB file
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\setupapi.dll'
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\wdmaud.drv'
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\wdmaud.drv', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\setupapi.dll', Cannot find or open the PDB file
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\setupapi.dll'
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\wdmaud.drv'
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\wdmaud.drv', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\setupapi.dll', Cannot find or open the PDB file
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\setupapi.dll'
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\msacm32.drv', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\msacm32.dll', Cannot find or open the PDB file
+'GUI1.exe': Loaded 'C:\WINDOWS\system32\midimap.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x418) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xcc8) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xb78) has exited with code 0 (0x0).
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\Dmcbus32.dll'
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\mfc42.dll'
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\version.dll'
+'GUI1.exe': Unloaded 'C:\WINDOWS\system32\uxtheme.dll'
+Detected memory leaks!
+Dumping objects ->
+{6284} normal block at 0x01E36AF8, 8 bytes long.
+ Data: < j      > 80 6A E3 01 00 00 00 00 
+{6283} normal block at 0x01E36A70, 72 bytes long.
+ Data: <(    Z  (       > 28 1D E3 01 B0 5A E3 01 28 1D E3 01 CD CD CD CD 
+{6281} normal block at 0x01E35B80, 8 bytes long.
+ Data: < i      > C8 69 E3 01 00 00 00 00 
+{6280} normal block at 0x01E369C8, 32 bytes long.
+ Data: < [  M           > 80 5B E3 01 4D 00 CD CD CD CD CD CD CD CD CD CD 
+{6279} normal block at 0x01E36980, 8 bytes long.
+ Data: < i      > 08 69 E3 01 00 00 00 00 
+{6278} normal block at 0x01E368F8, 72 bytes long.
+ Data: <(h  (    Z      > 28 68 E3 01 28 1D E3 01 B0 5A E3 01 CD CD CD CD 
+{6276} normal block at 0x01E368B0, 8 bytes long.
+ Data: <8h      > 38 68 E3 01 00 00 00 00 
+{6275} normal block at 0x01E36828, 72 bytes long.
+ Data: <(    h  (       > 28 1D E3 01 F8 68 E3 01 28 1D E3 01 CD CD CD CD 
+{6273} normal block at 0x01E35B38, 8 bytes long.
+ Data: <HX      > 48 58 E3 01 00 00 00 00 
+{6272} normal block at 0x01E35848, 32 bytes long.
+ Data: <8[  315         > 38 5B E3 01 33 31 35 00 CD CD CD CD CD CD CD CD 
+{6271} normal block at 0x01E36390, 8 bytes long.
+ Data: < Z      > C0 5A E3 01 00 00 00 00 
+{6270} normal block at 0x01E35AB0, 72 bytes long.
+ Data: <pj   h  (       > 70 6A E3 01 F8 68 E3 01 28 1D E3 01 CD CD CD CD 
+{2587} normal block at 0x01E31D28, 72 bytes long.
+ Data: <(h   h   Z      > 28 68 E3 01 F8 68 E3 01 B0 5A E3 01 CD CD CD CD 
+{2586} normal block at 0x01E31CE0, 8 bytes long.
+ Data: <8 2     > 38 FB 32 01 00 00 00 00 
+{2585} normal block at 0x0132FB38, 24 bytes long.
+ Data: <        (       > E0 1C E3 01 CD CD CD CD 28 1D E3 01 04 00 00 00 
+Object dump complete.
+The thread 'Win32 Thread' (0x8d8) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xc08) has exited with code 0 (0x0).
+The program '[2348] GUI1.exe: Native' has exited with code 0 (0x0).
